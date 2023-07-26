@@ -1,0 +1,17 @@
+img {
+	width:300px;
+	border: 2px solid blue;
+}
+body{
+	background-color:#00FFFF;
+	font-family:Arial;
+}
+.red{
+    color:red;
+}
+.big_font{
+	font-size:32px;
+}
+#specialStyle{
+	border:2px solid red;
+background-color:yellow;}
